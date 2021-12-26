@@ -1,0 +1,9 @@
+{
+    "name": "Void Spells",
+    "usesPatcher": false, 
+    
+    "files":
+    [
+        "lib\\libmagic.py"
+    ]
+}
