@@ -1,8 +1,8 @@
 {
     "name": "Void Spells",
     "modver": "1.0",
-    "srpgver": "m2a",
-    "usesPatcher": false, 
+    "srpgver": "m2.2a",
+    "patchmode": "append", 
     
     "files":
     [
